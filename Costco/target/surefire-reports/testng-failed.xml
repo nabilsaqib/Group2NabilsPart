@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="TestLocationsPage">
+        <methods>
+          <include name="TestLocationTitle"/>
+          <include name="searchZipCode"/>
+          <include name="testViewMoreLocations"/>
+          <include name="extentSetup"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- TestLocationsPage -->
+      <class name="TestSignInPage">
+        <methods>
+          <include name="TestForgetPassword"/>
+          <include name="enterUserAndPassword"/>
+          <include name="testSignInButton"/>
+          <include name="enterPassword"/>
+          <include name="enterEmail"/>
+          <include name="testSignInTitle"/>
+        </methods>
+      </class> <!-- TestSignInPage -->
+      <class name="TestHomePage">
+        <methods>
+          <include name="search"/>
+          <include name="testDropDown"/>
+          <include name="clickCategoriesTest"/>
+          <include name="clickLocationsTab"/>
+          <include name="searchMacbook"/>
+          <include name="testHomepageTitle"/>
+          <include name="testCustomerService"/>
+          <include name="searchInGrocery"/>
+        </methods>
+      </class> <!-- TestHomePage -->
+      <class name="TestServicePage">
+        <methods>
+          <include name="testCancelBtn"/>
+          <include name="testLifeTab"/>
+          <include name="testServicePageTitle"/>
+          <include name="testVideoTab"/>
+          <include name="testBusinessTab"/>
+          <include name="testExternalLinkBtn"/>
+          <include name="testHomeTab"/>
+          <include name="testAutoHomeInsurance"/>
+        </methods>
+      </class> <!-- TestServicePage -->
+      <class name="TestMembershipClass">
+        <methods>
+          <include name="TestTermsAndConditions"/>
+          <include name="membershipPageTitle"/>
+          <include name="TestWhyBecomeMember"/>
+          <include name="WhyBecomeMemberTitle"/>
+        </methods>
+      </class> <!-- TestMembershipClass -->
+      <class name="TestRegisterPage">
+        <methods>
+          <include name="enterEmailandPassword"/>
+          <include name="testRegisterPageTitle"/>
+          <include name="testEmailBar"/>
+          <include name="testPasswordBar"/>
+          <include name="emailPasswordMemberId"/>
+          <include name="testBuyMembershipTab"/>
+        </methods>
+      </class> <!-- TestRegisterPage -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

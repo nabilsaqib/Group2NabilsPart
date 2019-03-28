@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="189" failures="1" name="TestSuite" time="21.701" errors="0" skipped="188">
+  <properties>
+    <property name="idea.version" value="2018.3.4"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.73-b02"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/Costco"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/Costco"/>
+    <property name="java.runtime.version" value="1.8.0_73-b02"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/x2/7d20k9ks6j76chkptfvkxk1r0000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/Saqib/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.14.3"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/Saqib"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Saqib"/>
+    <property name="java.class.path" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.3.4 test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_73"/>
+    <property name="java.ext.dirs" value="/Users/Saqib/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="TestLocationsPage" name="initialize" time="5.503">
+    <failure type="java.lang.NullPointerException">java.lang.NullPointerException
+	at TestLocationsPage.initialize(TestLocationsPage.java:14)
+</failure>
+    <system-out>Configuring TestNG with: org.apache.maven.surefire.testng.conf.TestNG652Configurator@2a33fae0
+Extent Report Directory/Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/Costco/target/surefire-reports/html
+</system-out>
+    <system-err>Mar 26, 2019 4:00:40 PM com.relevantcodes.extentreports.ExtentReports loadConfig
+WARNING: Unable to perform report configuration. The file /Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/Costco/report-config.xml was not found.
+</system-err>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="setUp" time="5.505">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="startExtent" time="5.505">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="TestLocationTitle" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="searchZipCode" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="afterEachTestMethod" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="cleanUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="testViewMoreLocations" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="testHomepageTitle" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="initialize" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="membershipPageTitle" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="initialize" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="testRegisterPageTitle" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="initialize" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testServicePageTitle" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="initialize" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="startExtent" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="testSignInTitle" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="clickCategoriesTest" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="TestWhyBecomeMember" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="testEmailBar" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testHomeTab" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="testSignInButton" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="afterEachTestMethod" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="cleanUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="search" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="WhyBecomeMemberTitle" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="testPasswordBar" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testBusinessTab" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="enterEmail" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="testCustomerService" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="startExtent" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="TestTermsAndConditions" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestMembershipClass" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="startExtent" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="enterEmailandPassword" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testLifeTab" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="setUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="startExtent" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="enterPassword" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="searchMacbook" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="emailPasswordMemberId" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testAutoHomeInsurance" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="enterUserAndPassword" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="clickLocationsTab" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="setUp" time="0.004">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="startExtent" time="0.004">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="testBuyMembershipTab" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestRegisterPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0.004">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0.005">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testCancelBtn" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="TestForgetPassword" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestSignInPage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="testDropDown" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testVideoTab" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="initialize" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="searchInGrocery" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="afterEachTestMethod" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestHomePage" name="cleanUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="setUp" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="startExtent" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="testExternalLinkBtn" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="afterEachTestMethod" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestServicePage" name="cleanUp" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="TestLocationsPage" name="generateReport" time="5.045">
+    <skipped/>
+  </testcase>
+</testsuite>

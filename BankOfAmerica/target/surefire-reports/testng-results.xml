@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report Directory/Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/BankOfAmerica/target/surefire-reports/html]]>
+    </line>
+    <line>
+      <![CDATA[BoAHomeTest : test Bo A Home Title]]>
+    </line>
+  </reporter-output>
+  <suite name="BoAHomeTest" duration-ms="26051" started-at="2019-03-26T20:10:47Z" finished-at="2019-03-26T20:11:13Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26051" started-at="2019-03-26T20:10:47Z" finished-at="2019-03-26T20:11:13Z">
+      <class name="BoAHomeTest">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="extentSetup" is-config="true" duration-ms="5149" started-at="2019-03-26T16:10:42Z" finished-at="2019-03-26T16:10:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@d5ae57e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report Directory/Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/BankOfAmerica/target/surefire-reports/html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="setUp" is-config="true" duration-ms="1944" started-at="2019-03-26T16:10:47Z" finished-at="2019-03-26T16:10:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="startExtent" is-config="true" duration-ms="4" started-at="2019-03-26T16:10:49Z" finished-at="2019-03-26T16:10:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void BoAHomeTest.testBoAHomeTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="initialize" is-config="true" duration-ms="1395" started-at="2019-03-26T16:10:49Z" finished-at="2019-03-26T16:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testBoAHomeTitle()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="testBoAHomeTitle" duration-ms="29" started-at="2019-03-26T16:10:50Z" finished-at="2019-03-26T16:10:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[BoAHomeTest : test Bo A Home Title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testBoAHomeTitle -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="afterEachTestMethod" is-config="true" duration-ms="566" started-at="2019-03-26T16:10:50Z" finished-at="2019-03-26T16:10:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testBoAHomeTitle status=SUCCESS method=BoAHomeTest.testBoAHomeTitle()[pri:0, instance:BoAHomeTest@67b6d4ae] output=BoAHomeTest : test Bo A Home Title]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="cleanUp" is-config="true" duration-ms="1" started-at="2019-03-26T16:10:51Z" finished-at="2019-03-26T16:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="setUp" is-config="true" duration-ms="1515" started-at="2019-03-26T16:10:51Z" finished-at="2019-03-26T16:10:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="initialize" is-config="true" duration-ms="1549" started-at="2019-03-26T16:10:52Z" finished-at="2019-03-26T16:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T16:10:52Z" finished-at="2019-03-26T16:10:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void BoAHomeTest.testBoALogo()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="testBoALogo()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="testBoALogo" duration-ms="51" started-at="2019-03-26T16:10:54Z" finished-at="2019-03-26T16:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBoALogo -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="afterEachTestMethod" is-config="true" duration-ms="228" started-at="2019-03-26T16:10:54Z" finished-at="2019-03-26T16:10:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testBoALogo status=SUCCESS method=BoAHomeTest.testBoALogo()[pri:0, instance:BoAHomeTest@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T16:10:54Z" finished-at="2019-03-26T16:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="setUp" is-config="true" duration-ms="1490" started-at="2019-03-26T16:10:54Z" finished-at="2019-03-26T16:10:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="startExtent" is-config="true" duration-ms="1" started-at="2019-03-26T16:10:56Z" finished-at="2019-03-26T16:10:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void BoAHomeTest.testOnlineIDPlaceHolder()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="initialize" is-config="true" duration-ms="1251" started-at="2019-03-26T16:10:56Z" finished-at="2019-03-26T16:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testOnlineIDPlaceHolder()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="testOnlineIDPlaceHolder" duration-ms="71" started-at="2019-03-26T16:10:57Z" finished-at="2019-03-26T16:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnlineIDPlaceHolder -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="afterEachTestMethod" is-config="true" duration-ms="154" started-at="2019-03-26T16:10:57Z" finished-at="2019-03-26T16:10:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testOnlineIDPlaceHolder status=SUCCESS method=BoAHomeTest.testOnlineIDPlaceHolder()[pri:0, instance:BoAHomeTest@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T16:10:57Z" finished-at="2019-03-26T16:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="setUp" is-config="true" duration-ms="1450" started-at="2019-03-26T16:10:57Z" finished-at="2019-03-26T16:10:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="startExtent" is-config="true" duration-ms="1" started-at="2019-03-26T16:10:59Z" finished-at="2019-03-26T16:10:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void BoAHomeTest.testOnlineId()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="initialize" is-config="true" duration-ms="1395" started-at="2019-03-26T16:10:59Z" finished-at="2019-03-26T16:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testOnlineId()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="testOnlineId" duration-ms="676" started-at="2019-03-26T16:11:00Z" finished-at="2019-03-26T16:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOnlineId -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="afterEachTestMethod" is-config="true" duration-ms="175" started-at="2019-03-26T16:11:01Z" finished-at="2019-03-26T16:11:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testOnlineId status=SUCCESS method=BoAHomeTest.testOnlineId()[pri:0, instance:BoAHomeTest@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="setUp" is-config="true" duration-ms="1542" started-at="2019-03-26T16:11:01Z" finished-at="2019-03-26T16:11:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T16:11:01Z" finished-at="2019-03-26T16:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="startExtent" is-config="true" duration-ms="1" started-at="2019-03-26T16:11:02Z" finished-at="2019-03-26T16:11:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void BoAHomeTest.testPasscode()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="initialize" is-config="true" duration-ms="1237" started-at="2019-03-26T16:11:02Z" finished-at="2019-03-26T16:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testPasscode()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="testPasscode" duration-ms="208" started-at="2019-03-26T16:11:04Z" finished-at="2019-03-26T16:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPasscode -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="afterEachTestMethod" is-config="true" duration-ms="206" started-at="2019-03-26T16:11:04Z" finished-at="2019-03-26T16:11:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testPasscode status=SUCCESS method=BoAHomeTest.testPasscode()[pri:0, instance:BoAHomeTest@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T16:11:04Z" finished-at="2019-03-26T16:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="setUp" is-config="true" duration-ms="1528" started-at="2019-03-26T16:11:04Z" finished-at="2019-03-26T16:11:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T16:11:06Z" finished-at="2019-03-26T16:11:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void BoAHomeTest.testSignInMessageNoOnlineId()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="initialize" is-config="true" duration-ms="1358" started-at="2019-03-26T16:11:06Z" finished-at="2019-03-26T16:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testSignInMessageNoOnlineId()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="testSignInMessageNoOnlineId" duration-ms="1632" started-at="2019-03-26T16:11:07Z" finished-at="2019-03-26T16:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInMessageNoOnlineId -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="afterEachTestMethod" is-config="true" duration-ms="253" started-at="2019-03-26T16:11:09Z" finished-at="2019-03-26T16:11:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSignInMessageNoOnlineId status=SUCCESS method=BoAHomeTest.testSignInMessageNoOnlineId()[pri:0, instance:BoAHomeTest@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="cleanUp" is-config="true" duration-ms="1" started-at="2019-03-26T16:11:09Z" finished-at="2019-03-26T16:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="setUp" is-config="true" duration-ms="1484" started-at="2019-03-26T16:11:09Z" finished-at="2019-03-26T16:11:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T16:11:10Z" finished-at="2019-03-26T16:11:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void BoAHomeTest.testSignInMessageNoPasscode()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="initialize" is-config="true" duration-ms="1422" started-at="2019-03-26T16:11:10Z" finished-at="2019-03-26T16:11:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testSignInMessageNoPasscode()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="testSignInMessageNoPasscode" duration-ms="1015" started-at="2019-03-26T16:11:12Z" finished-at="2019-03-26T16:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignInMessageNoPasscode -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:BoAHomeTest@67b6d4ae]" name="afterEachTestMethod" is-config="true" duration-ms="200" started-at="2019-03-26T16:11:13Z" finished-at="2019-03-26T16:11:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSignInMessageNoPasscode status=SUCCESS method=BoAHomeTest.testSignInMessageNoPasscode()[pri:0, instance:BoAHomeTest@67b6d4ae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T16:11:13Z" finished-at="2019-03-26T16:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:BoAHomeTest@67b6d4ae]" name="generateReport" is-config="true" duration-ms="31" started-at="2019-03-26T16:11:18Z" finished-at="2019-03-26T16:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- BoAHomeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- BoAHomeTest -->
+</testng-results>

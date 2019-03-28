@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 189, Failures: 1, Errors: 0, Skipped: 188, Time elapsed: 40.796 sec <<< FAILURE!
+initialize(TestLocationsPage)  Time elapsed: 5.503 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at TestLocationsPage.initialize(TestLocationsPage.java:14)
+

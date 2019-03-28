@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d815f3b-bde3-4f7e-83bd-e8c44b2e28c5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/FaceBook/target/" />
+    <ignored path="$PROJECT_DIR$/Costco/target/" />
+    <ignored path="$PROJECT_DIR$/BankOfAmerica/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Group2AutomationFramework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Costco/src/main/java/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="135" column="25" lean-forward="true" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#915#916#0" expanded="true" />
+                <element signature="e#963#964#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="124" column="1" lean-forward="true" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>j</find>
+      <find>signin</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Costco/src/main/java</dir>
+      <dir>$PROJECT_DIR$/Costco/src/test/java</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
+        <option value="$PROJECT_DIR$/Generic/src/secret.properties" />
+        <option value="$PROJECT_DIR$/FaceBook/pom.xml" />
+        <option value="$PROJECT_DIR$/FaceBook/src/main/java/facebookHomeTabVarifys/HomeTabsVarifys.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
+        <option value="$PROJECT_DIR$/FaceBook/src/test/java/testFaceBookHomeTabsVarifys/TestHomeTabsVarifys.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/FaceBook/src/test/resources/FaceBookTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/Costco/pom.xml" />
+        <option value="$PROJECT_DIR$/Costco/src/test/resources/CostcoHomePageRunner.xml" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/RegisterPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/ServicePage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/TestRegisterPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/TestServicePage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/MembershipPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/TestPharmacyPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/PharmacyPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/TestMembershipClass.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/pom.xml" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/resources/BankOfAmericaHomeRunner.xml" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/BoAHomeTest.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/TestLocationsPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/LocationsPage.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/TestBoALocationsPage.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/BoALocationsPage.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/TestBoAForgotCredentialsPage.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/BoAForgotCredentialsPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/main/java/SignInPage.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/TestSignInPage.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/BoAHome.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/TestBoAHome.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/Costco/src/test/java/TestHomePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BankOfAmerica" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BankOfAmerica" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="23" />
+    <option name="width" value="1268" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Costco" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Group2AutomationFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Group2AutomationFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553752531815" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Costco/src/test/resources" />
+      <recent name="$PROJECT_DIR$/Generic/browser-driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestHomePage.selectsteps">
+    <configuration name="TestBoAHome.testContactUs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankOfAmerica" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBoAHome" />
+      <option name="METHOD_NAME" value="testContactUs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBoAHome.testContactUsTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankOfAmerica" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBoAHome" />
+      <option name="METHOD_NAME" value="testContactUsTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBoAHome.testEspanolTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankOfAmerica" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBoAHome" />
+      <option name="METHOD_NAME" value="testEspanolTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBoAHome.testHelpUrl" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankOfAmerica" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBoAHome" />
+      <option name="METHOD_NAME" value="testHelpUrl" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.selectsteps" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Costco" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestHomePage" />
+      <option name="METHOD_NAME" value="selectsteps" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestHomePage.selectsteps" />
+        <item itemvalue="TestNG.TestBoAHome.testHelpUrl" />
+        <item itemvalue="TestNG.TestBoAHome.testContactUsTitle" />
+        <item itemvalue="TestNG.TestBoAHome.testContactUs" />
+        <item itemvalue="TestNG.TestBoAHome.testEspanolTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d815f3b-bde3-4f7e-83bd-e8c44b2e28c5" name="Default Changelist" comment="" />
+      <created>1553569691064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553569691064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBoAHome_testFbook - 2019.03.28 at 00h 54m 51s.xml">
+      <configuration name="TestBoAHome.testFbook" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome_testEspanolLink - 2019.03.28 at 01h 01m 37s.xml">
+      <configuration name="TestBoAHome.testEspanolLink" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome - 2019.03.28 at 01h 03m 54s.xml">
+      <configuration name="TestBoAHome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome_testEspanolTitle - 2019.03.28 at 01h 06m 24s.xml">
+      <configuration name="TestBoAHome.testEspanolTitle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome_testContactUs - 2019.03.28 at 01h 14m 23s.xml">
+      <configuration name="TestBoAHome.testContactUs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome_testContactUsTitle - 2019.03.28 at 01h 16m 40s.xml">
+      <configuration name="TestBoAHome.testContactUsTitle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome_testContactUsTitle - 2019.03.28 at 01h 17m 32s.xml">
+      <configuration name="TestBoAHome.testContactUsTitle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome_testHelpUrl - 2019.03.28 at 01h 20m 01s.xml">
+      <configuration name="TestBoAHome.testHelpUrl" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestBoAHome_testHelpUrl - 2019.03.28 at 01h 20m 38s.xml">
+      <configuration name="TestBoAHome.testHelpUrl" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_selectsteps - 2019.03.28 at 01h 44m 00s.xml">
+      <configuration name="TestHomePage.selectsteps" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="12" y="23" width="1268" height="726" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.2819277" side_tool="true" weight="0.3582343" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.7180723" visible="true" weight="0.276509" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.329653" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.329653" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.2823344" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39905363" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.17317487" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Generic/src/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook/src/test/resources">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="33" selection-start-line="12" selection-start-column="4" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook/src/test/resources/FaceBookTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook/src/test/java/testFaceBookHomeTabsVarifys/TestHomeTabsVarifys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceBook/src/main/java/facebookHomeTabVarifys/HomeTabsVarifys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-976">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/RegisterPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/ServicePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/MembershipPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/PharmacyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestPharmacyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestRegisterPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestServicePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="12" selection-start-column="3" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/resources/CostcoHomePageRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/resources/BankOfAmericaHomeRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#271#292#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestLocationsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/LocationsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="857">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3084#3085#0" expanded="true" />
+            <element signature="e#7689#7690#0" expanded="true" />
+            <element signature="e#7718#7719#0" expanded="true" />
+            <element signature="e#7788#7789#0" expanded="true" />
+            <element signature="e#7863#7864#0" expanded="true" />
+            <element signature="e#7921#7922#0" expanded="true" />
+            <element signature="e#7987#7988#0" expanded="true" />
+            <element signature="e#10558#10559#0" expanded="true" />
+            <element signature="e#10616#10617#0" expanded="true" />
+            <element signature="e#10650#10651#0" expanded="true" />
+            <element signature="e#10690#10691#0" expanded="true" />
+            <element signature="e#11621#11622#0" expanded="true" />
+            <element signature="e#11688#11689#0" expanded="true" />
+            <element signature="e#12775#12776#0" expanded="true" />
+            <element signature="e#12836#12837#0" expanded="true" />
+            <element signature="e#12895#12896#0" expanded="true" />
+            <element signature="e#12970#12971#0" expanded="true" />
+            <element signature="e#13183#13184#0" expanded="true" />
+            <element signature="e#13252#13253#0" expanded="true" />
+            <element signature="e#13301#13302#0" expanded="true" />
+            <element signature="e#13381#13382#0" expanded="true" />
+            <element signature="e#13432#13433#0" expanded="true" />
+            <element signature="e#13499#13500#0" expanded="true" />
+            <element signature="e#13618#13630#0" expanded="true" />
+            <element signature="e#13834#13846#0" expanded="true" />
+            <element signature="e#13891#13899#0" expanded="true" />
+            <element signature="e#14242#14254#0" expanded="true" />
+            <element signature="e#14299#14307#0" expanded="true" />
+            <element signature="e#14645#14657#0" expanded="true" />
+            <element signature="e#14893#14905#0" expanded="true" />
+            <element signature="e#15117#15129#0" expanded="true" />
+            <element signature="e#15362#15363#0" expanded="true" />
+            <element signature="e#15405#15406#0" expanded="true" />
+            <element signature="e#15750#15751#0" expanded="true" />
+            <element signature="e#15817#15818#0" expanded="true" />
+            <element signature="e#16071#16079#0" expanded="true" />
+            <element signature="e#17932#17933#0" expanded="true" />
+            <element signature="e#17980#17981#0" expanded="true" />
+            <element signature="e#18020#18021#0" expanded="true" />
+            <element signature="e#18070#18071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestMembershipClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/BoALocationsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2347">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/TestBoALocationsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1087">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1384#1385#0" expanded="true" />
+            <element signature="e#2037#2038#0" expanded="true" />
+            <element signature="e#2095#2096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestSignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/TestBoAForgotCredentialsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+            <element signature="e#1458#1459#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+            <element signature="e#1930#1931#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#2214#2215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/BoAForgotCredentialsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/BoAHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="322" column="5" selection-start-line="322" selection-start-column="5" selection-end-line="322" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/TestBoAHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="188" column="5" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4774#4775#0" expanded="true" />
+            <element signature="e#4833#4834#0" expanded="true" />
+            <element signature="e#4908#4909#0" expanded="true" />
+            <element signature="e#4927#4928#0" expanded="true" />
+            <element signature="e#5032#5033#0" expanded="true" />
+            <element signature="e#5048#5049#0" expanded="true" />
+            <element signature="e#5154#5155#0" expanded="true" />
+            <element signature="e#5173#5174#0" expanded="true" />
+            <element signature="e#5278#5279#0" expanded="true" />
+            <element signature="e#5297#5298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="124" column="1" lean-forward="true" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/main/java/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="121" column="30" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Costco/src/test/java/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="135" column="25" lean-forward="true" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FaceBook</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.0.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
